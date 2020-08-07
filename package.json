@@ -1,0 +1,20 @@
+{
+  "name": "heydarli",
+  "version": "1.0.0",
+  "description": "<!--\r **heydarli/heydarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heydarli/heydarli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heydarli/heydarli/issues"
+  },
+  "homepage": "https://github.com/heydarli/heydarli#readme"
+}
