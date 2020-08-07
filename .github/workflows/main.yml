@@ -25,6 +25,8 @@ jobs:
     - run: npm run start
     - name: Commit and push changes
       run: |-
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
         git add . -A
         git commit -m "Updated time" || exit 0
         git push
